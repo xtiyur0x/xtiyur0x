@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# About me
+Hi! I'm xtiyur0x. Although I'm a full-time student, I'm currently working on several amazing projects out there.
+
+(to be written later...)
+
 <!--
 **xtiyur0x/xtiyur0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
